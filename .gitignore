@@ -196,3 +196,6 @@ docs/tools/FSharp.Formatting.svclog
 project.lock.json
 .fable
 main.js
+
+# Fable
+fable_modules/
