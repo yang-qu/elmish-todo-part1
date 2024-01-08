@@ -1,13 +1,25 @@
-## elmish-todo-part1
+## elmish-todo-part3
 
-### Developement
+### Setup 
 ```bash
-npm install
+dotnet tool restore
+cd src
+femto --resolve
+```
+
+### Development
+
+```bash
 npm start
 ```
 
 ### Full build
+
 ```bash
-npm install
 npm run build
+```
+
+### Preview full build
+```bash
+npm run preview
 ```
