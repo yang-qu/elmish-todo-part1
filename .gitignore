@@ -199,3 +199,10 @@ main.js
 
 # Fable
 fable_modules/
+
+# Vite
+dist/
+
+# Jetbrains
+.idea/
+
